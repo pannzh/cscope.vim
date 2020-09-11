@@ -44,6 +44,8 @@
 \.rb
 \.rc
 \.ru
+\.s
+\.S
 \.sbt
 \.scala
 \.sh
